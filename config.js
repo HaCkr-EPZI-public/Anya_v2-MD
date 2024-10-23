@@ -37,8 +37,8 @@ module.exports = {
      */
     image_1: readFileSync('./lib/Assets/image_1.jpg'), // primary image
     image_2: readFileSync('./lib/Assets/image_2.jpg'), // secondry image
-    imageUrl: "https://i.ibb.co/tZzBS47/image.jpg", // image url, to replace to your url upload your image to https://imgbb.com
-    imageMentionUrl: "https://i.ibb.co/tZzBS47/image.jpg", // image for mention reply audio media
+    imageUrl: "https://i.ibb.co/Pr4BfhZ/1500x1500.png", // image url, to replace to your url upload your image to https://imgbb.com
+    imageMentionUrl: "https://i.ibb.co/Pr4BfhZ/1500x1500.png", // image for mention reply audio media
     aliveMedia: readFileSync("./lib/Assets/aliveMedia.mp4"),
     menuMedia: readFileSync('./lib/Assets/menuMedia.mp4'),
     ownerMentionMp3: readFileSync('./lib/Assets/ownerMentionMp3.mp3'),  // audio for mention reply audio media
